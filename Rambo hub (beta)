@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pastebin.com/search?q=Rambo+hub+%28beta%29"))()
